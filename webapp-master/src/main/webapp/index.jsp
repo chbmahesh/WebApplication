@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Cunue Mutual Insurance ltd</title>
+    <title>Cunue Mutual Insurance ltd new</title>
 
 
     <!-- Custom styles for this template -->
